@@ -4,7 +4,7 @@
 <br /><br />
 <b>Une audit SEO</b> a été réalisée sur le code source initial impliquant les modifications suivantes:
 <br /><br />
-- Suppresion des images constituants les paragraphes/titres via l'insertion de chaînes alphanumériques dans des balises respectivement prévues à cet usage telles que: "p", <h1, h2, h3..>, "span".<br />
+- Suppression des images constituants les paragraphes/titres via l'insertion de chaînes alphanumériques dans des balises respectivement prévues à cet usage telles que: "p", <h1, h2, h3..>, "span".<br />
 - Insertion d'un index linguistique dans la balise html.<br />
 - Rename du fichier .html de la page de contact (afin d'y introduire un contexte) et modification de tous les liens qui pointent vers cette page.<br />
 - Suppresion de la balise "li" inutile dans le menu de naviguation (celui-ci aurait pu induire les moteurs de recherche en erreur vis à vis de la structure hiérarchique de la page).<br />
