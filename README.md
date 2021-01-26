@@ -2,7 +2,7 @@
 <br /><br />
 La chouette agence est un site dédié au web-design.
 <br /><br />
-Une audit SEO a été réalisée sur le code source initial impliquant les modifications suivantes:
+<b>Une audit SEO</b> a été réalisée sur le code source initial impliquant les modifications suivantes:
 <br /><br />
 - Suppresion des images constituants les paragraphes/titres via l'insertion de chaînes alphanumériques dans des balises respectivement prévues à cet usage telles que: "p", <h1, h2, h3..>, "span".<br />
 - Insertion d'un index linguistique dans la balise html.<br />
@@ -15,4 +15,4 @@ Une audit SEO a été réalisée sur le code source initial impliquant les modif
 - Mise en place du concept "ScrollToTop" sur la page index.php afin d'accroître l'accessibilité côté client.<br />
 - Minification des fichiers CSS/JS afin d'accroître les performances du site: d'une part pour les moteurs de recherches mais également pour les clients.<br />
 - Compression et minification des images (jusqu'à 70% de gain de performance)
-<br /><br />Mission effectuée dans le cadre de ma formation avec OpenClassroom.
+<br /><br /><b>Mission effectuée dans le cadre de ma formation avec OpenClassroom.</b>
